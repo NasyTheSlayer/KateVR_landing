@@ -1,0 +1,33 @@
+.page {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+
+  max-width: toRem(1920);
+  margin: 0 auto;
+
+  background: linear-gradient(108deg, #191536 0, #000 100%);
+
+  &__body {
+    margin: 0;
+    min-width: $minWidth;
+
+    &--with-menu {
+      overflow: hidden;
+    }
+  }
+
+  // &__menu {
+  //   position: fixed;
+  //   top: 0;
+  //   left: 0;
+  //   right: 0;
+
+  //   transform: translateX(100%);
+  //   transition: transform 0.3s;
+
+  //   &:target {
+  //     transform: translateX(0);
+  //     z-index: 1;
+  //   }
+  // }
+}
