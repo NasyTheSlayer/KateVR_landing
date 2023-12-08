@@ -1,6 +1,6 @@
 # KateVR landing page
 
-- [DEMO LINK](https://github.com/NasyTheSlayer/KateVR_landing)
+- [DEMO LINK](https://nasytheslayer.github.io/KateVR_landing/)
 
 ## General info
 The KateVR landing page is a training project featuring animations, transitions on product cards and buttons, and anchor targets for in-page navigation. Users can open and close a menu, utilize telephone and email links, and submit information via a dedicated form. The form includes additional validation. The page is responsive and adapts seamlessly to three different device types: desktop, tablet, and mobile. It ensures a user-friendly experience on all platforms.
